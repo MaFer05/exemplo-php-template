@@ -1,7 +1,10 @@
-<?php $title = 'Home Page' ?>
+<?php 
+    include 'functions/template.php';
+    $title = 'Home Page';
+?>
 
-<?php include('includes/header.php') ?>
+<?php getHeader('home') ?>
 
         <h1>Home Page</h1>
         
-<?php include('includes/footer.php') ?>
+<?php getFooter() ?>
