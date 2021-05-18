@@ -1,5 +1,5 @@
 {
     "autoload" : {
-        "files" : ["functions/template.php", "functions/calculos.php"]
+        "files" : ["functions/template.php", "functions/calculo.php"]
     }
 }
